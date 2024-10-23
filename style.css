@@ -107,13 +107,13 @@ nav button#menuButton{
     align-items: start;
 }
 
-.main .left h3{
+.main .left h4{
     margin-top: 10px;
     font-weight: bold;
-    font-size: 46px;
+    font-size: 25px;
 }
 
-.main .left h3 span{
+.main .left h4 span{
     color: #ee713b;
 }
 
